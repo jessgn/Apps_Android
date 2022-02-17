@@ -7,3 +7,5 @@ Professor: Alessandro Brawerman
 
 - CambioApp
 - SorteioApp
+- NumberGuess
+- JogoDasCapitais
