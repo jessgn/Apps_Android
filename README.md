@@ -11,5 +11,8 @@ Professor: Alessandro Brawerman
 - JogoDasCapitais
 - TempCalc
 - BiscoitoApp
+- CalculadoraIMC
+- Churrascometro
+- ConversorMoedaApp
 
 
